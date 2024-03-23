@@ -1,1 +1,1 @@
-# adviser-finder taksyapo burat
+# adviser-finder taksyapo
