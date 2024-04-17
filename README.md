@@ -11,3 +11,5 @@
 - .js files kabit la scr folder
 - css kabit la assets/css
 - image assets/img
+
+[for more MarkDown(.md) info](https://www.markdownguide.org/cheat-sheet/)
