@@ -1,10 +1,13 @@
 # adviser-finder
 
-NOTE:   
-        Barrion laging kang mag commit at push istung atin kang binayu
-        lagi kading mag fetch at pull eme kakalingwan
-END;
+### Notes
 
-NOTE:lolorems
+1. Barrion laging kang mag commit at push istung atin kang binayu
+2. kading mag fetch at pull eme kakalingwan
+3. nung eka sure na gagana ne ing gewa mu eme cocommit
 
-END;
+### Notes for new files
+
+- .js files kabit la scr folder
+- css kabit la assets/css
+- image assets/img
