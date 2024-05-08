@@ -13,3 +13,6 @@
 - image assets/img
 
 [for more MarkDown(.md) info](https://www.markdownguide.org/cheat-sheet/)
+
+
+try from fedora
